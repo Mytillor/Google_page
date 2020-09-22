@@ -1,0 +1,63 @@
+ .flexbox1{width: 1255px;
+  				text-align: center;
+  				line-height: 20px;
+  				font-size: 15px;
+            display: flex;
+            justify-content: flex-end;
+            flex-direction: row;
+            border: none;
+          }
+
+ .Gmail{margin: 10px }
+ .Gm{color:black;text-decoration: none;}
+ .Gm:hover{color:grey;text-decoration: underline;}
+ .Image{margin: 10px;}
+ .Im{color:black;text-decoration: none}
+.Im:hover{color:grey;text-decoration: underline;}
+
+ .Application{margin: 10px ;}
+ .Ap{height: 25px ;}
+
+ .Mail{margin: 10px }
+ .Ma{height: 25px}
+
+ .flexbox2{ align-items: center;
+ 	height: 250px;
+ 			display: flex;
+ 			justify-content: center;
+ 			border: none}
+ .G{
+ 	height: 100px;
+ 	margin-top: 100px;
+ }
+ .flexbox3{
+ 	justify-content: center;
+ 		display: flex;
+ 		border: none}
+  .barre{justify-content: center}
+
+ .flexbox4{display: flex;
+ 		justify-content: center;
+ 		flex-direction: row;
+ 		margin: 5px;
+ 		 	border: none}
+
+ .Rech{margin-right: 15px}
+
+ button {
+  border: none;
+  color: black;
+  height: 30px;
+  padding: 0 16px;
+    padding-top: 0px;
+    padding-right: 16px;
+    padding-bottom: 0px;
+    padding-left: 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
+ 
+  
